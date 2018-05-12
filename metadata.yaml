@@ -1,0 +1,37 @@
+_repo: The-Blue-Pavilions_19977
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Q
+    - Quiller-Couch, Arthur Thomas
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    - Quiller-Couch, Sir Arthur Thomas
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2006-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Great Britain -- History -- William and Mary, 1689-1702'
+- !lcsh 'Franco-Dutch war, 1672-1678 -- Fiction'
+- !lcsh 'William III, King of England, 1650-1702 -- Fiction'
+- !lcsh 'Historical fiction'
+title: The Blue Pavilions
+url: http://www.gutenberg.org/ebooks/19977
